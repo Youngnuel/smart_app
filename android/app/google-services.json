@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119059235330",
+    "project_id": "smart-app-22d95",
+    "storage_bucket": "smart-app-22d95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119059235330:android:edec5ad8771675e3f81d1b",
+        "android_client_info": {
+          "package_name": "com.savings.smart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119059235330-ett566vv41ra8muihoi18b9ih5fbralc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK0tVOZCCKAJqpFOjA26LQ-swIZCABI8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119059235330-ett566vv41ra8muihoi18b9ih5fbralc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
